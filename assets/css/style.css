@@ -5,7 +5,6 @@
 body {
     margin: 0;
     padding: 0;
-    padding-bottom: 400px;
 }
 
 header {
@@ -228,6 +227,93 @@ article .new_resume {
     color: #5c5c5c;
     line-height: 20px;
     margin-bottom: 45px;
+}
+
+.row {
+    display: flex;
+}
+
+.square {
+    flex: 1;
+    width: 140px;
+    height: 140px;
+    background-color: #36a9e1;
+    margin: 12px;
+} 
+
+.contact_text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    color: #666666;
+}
+
+.contact {
+    padding: 20px;
+    color: #666666;
+    border-top: 1px solid #ccc;
+}
+
+.only_border{
+    border-bottom: 1px solid #ccc;
+}
+
+footer {
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_menu {
+    display: flex;
+}
+
+.fm1, .fm2, .fm3 {
+    flex: 1;
+    color: #fff;
+    padding: 20px;
+} 
+
+.fm1 {
+    background-color: #42b3e5;
+}
+
+.fm2 {
+    background-color: #0384ce;
+}
+
+.fm3 {
+    background-color: #3156a3;
+}
+
+.footer_area {
+    display: flex; 
+}
+
+.footer_areaitem {
+    flex: 1;
+    color: #fff;
+}
+
+.flexcolumn {
+    flex-direction: column;
+}
+
+footer .widget_title_text {
+    color: #fff;
+}
+
+.footer_copy {
+    border-top: 1px solid #353535;
+    color: #fff;
+    font-size: 13px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 30px;
+}
+
+.footer_copy .copy {
+    color: #909090;
 }
 
 
