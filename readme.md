@@ -1,4 +1,4 @@
-<h1 align="center"> MediCenter B7Web </h1>
+<h1 align="center"> MediCenter </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,11 +16,11 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
--JavaScript
+- JavaScript
 - Git e Github
 
 ## 💻 Projeto
 
-MediCenter
+MediCenter B7Web
 
 - [Acesse o projeto finalizado, online](https://josefilho0.github.io/Projeto-medicenter-b7web/)
